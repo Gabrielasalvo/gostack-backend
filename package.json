@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Gabriela Salvo <gabrielamdesalvo@gmail.com> (https://github.com/gabrielasalvo)",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
